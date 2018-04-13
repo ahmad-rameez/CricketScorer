@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CricketScorer</string>
+    <string name="app_title">VL Cricket  Scorer</string>
+    <string name="target">Runs Remaining</string>
+    <string name="ball">Balls Remaining</string>
+    <string name="rr">Required Runrate</string>
+</resources>
